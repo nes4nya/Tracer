@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <thread id="1" time="210">
+    <methods name="MyMethod" class="Foo" time="105" />
+    <methods name="InnerMethod" class="Bar" time="105" />
+  </thread>
+  <thread id="3" time="116">
+    <methods name="Method" class="MainApp" time="116" />
+  </thread>
+</root>thread>
+</root>read id="4" time="56">
+    <methods name="TracerTest" class="MainApp" time="56" />
+  </thread>
+  <thread id="5" time="64">
+    <methods name="TracerTest" class="MainApp" time="64" />
+  </thread>
+  <thread id="6" time="54">
+    <methods name="TracerTest" class="MainApp" time="54" />
+  </thread>
+  <thread id="7" time="60">
+    <methods name="TracerTest" class="MainApp" time="60" />
+  </thread>
+  <thread id="8" time="104">
+    <methods name="Method" class="MainApp" time="104" />
+  </thread>
+</root>
